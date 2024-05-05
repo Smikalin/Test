@@ -2,5 +2,9 @@ Hello world!!!
 changed (ammend)
 Remote test
 fixed
+<<<<<<< HEAD
 Lone from User1 (conflict)
+=======
+Lone from User2 (conflict)
+>>>>>>> bcaf198a8ea0c649a2204a07059be90aa406bd0b
 Line from User1
