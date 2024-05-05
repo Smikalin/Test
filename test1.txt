@@ -2,5 +2,5 @@ Hello world!!!
 changed (ammend)
 Remote test
 fixed
-Lone from User2
+Lone from User2 (conflict)
 Line from User1
